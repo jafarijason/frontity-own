@@ -1,0 +1,1 @@
+npx frontity create 001-app

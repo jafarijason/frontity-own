@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "ea5ec103ae60b2943c29",
+  "publicPath": "/static/",
+  "outputPath": "D:\\mygithub\\frontity-own\\001-app\\build\\static",
+  "assetsByChunkName": {
+    "001-app": "001-app.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "001-app.module.js",
+      "size": 5043351,
+      "chunks": [
+        "001-app"
+      ],
+      "chunkNames": [
+        "001-app"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47797,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "001-app": {
+      "chunks": [
+        "001-app"
+      ],
+      "assets": [
+        "001-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "001-app": {
+      "chunks": [
+        "001-app"
+      ],
+      "assets": [
+        "001-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
